@@ -1,0 +1,28 @@
+Name: Nguyen Le Phong
+Student ID: 20146516
+Course class: Artifical Intelligence - Monday morning
+Lecture: Assoc. Prof. Nguyen Truong Thinh
+
+Exercises
+
+1. There are different interpretations of artificial intelligence in different contexts. Please elaborate on the artificial intelligence in your eyes.
+
+- In my view, artificial intelligence is an advanced technology that allows machines to decide their future actions based on sample data. The bigger volume of the sample data, the more intelligent the machines develop. Therefore, their application is extremely wide, like weather forcast, auto-pilot in the automotive field, or processing repetitive, tedious tasks.
+
+2. Artificial intelligence, machine learning and deep learning are three concepts often mentioned together. What is the relationship between them? What are the similarities and differences between the three terms?
+
+- Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are three terms that are often used interchangeably and are related to each other. AI is the broadest term and can be thought of as a set of algorithms and techniques that enable machines to solve complex problems. ML is a subset of AI and focuses on algorithms that enable machines to learn from data in order to make decisions and predictions. DL is a subset of ML and consists of algorithms that are inspired by the structure and function of the brain and enable machines to learn in a more human-like fashion.
+
+The similarities between the three terms is that they can all be used to create algorithms that can learn and make decisions. The difference is that AI covers a broad set of algorithms, ML focuses on algorithms that can learn from data, and DL focuses on algorithms inspired by the brain.
+
+3. After reading the artificial intelligence application scenarios in this chapter, please describe in detail a field of AI application and its scenarios in real life based on your own life experience.
+
+- My first experience with AI was using Google assistant to ask silly questions. I also used this AI to set reminders, alarms, help with research and most important is to help me practice English.
+
+4. Which chip is for deep neural networks and Ascend AI processors. Please brief these four major modules.
+
+The Ascend AI Processor is a processor specifically designed for deep neural networks. It concludes four major modules: the AI Core, the Tensor Core, the SRAM, and the Software Stack. The AI Core is a processor used for the training of deep neural networks. The Tensor Core is a dedicated hardware accelerator for deep learning operations. The SRAM is a dedicated memory for storing data of a model. The Software Stack provides an environment for AI applications.
+
+5. Based on your current knowledge and understanding, please elaborate on the development trends of artificial intelligence in the future in your view.
+
+- In the future, I think AI will appear more and more frequently in our lives. In addition, AI will be able to analyze large volumes of data, and from that, they can make predictions for natural disasters. Moreover, AI cars can autopilot in the complex traffic environment like Vietnam which helps us live safer and more conveniently.
